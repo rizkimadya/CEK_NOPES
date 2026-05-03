@@ -156,9 +156,9 @@ export default function App() {
     const unique = [...new Set(list)];
 
     const resultsArray = unique.map((val) => {
-      const last4 = val.slice(-4).toUpperCase();
+      const len = val.length;
       const matched = dataNopes.filter(
-        (item) => item.no_pes && item.no_pes.slice(-4).toUpperCase() === last4
+        (item) => item.no_pes && item.no_pes.slice(-len) === val
       );
       if (matched.length > 0) {
         return { input: val, found: true, no_pes: matched[0].no_pes, items: matched };
@@ -292,6 +292,7 @@ export default function App() {
                       <th style={{ ...S.th, textAlign: "right" }}>Harga</th>
                       <th style={{ ...S.th, textAlign: "center" }}>Qty</th>
                       <th style={S.th}>Tanggal</th>
+                      <th style={S.th}>No Pesanan</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -309,6 +310,9 @@ export default function App() {
                         </td>
                         <td style={{ ...S.td, color: "#999", whiteSpace: "nowrap" }}>
                           {item.tanggal_co}
+                        </td>
+                        <td style={{ ...S.td, color: "#999", whiteSpace: "nowrap", fontSize:"16px", color:"rgb(46, 125, 50)", fontWeight:"bold" }}>
+                          {item.no_pes}
                         </td>
                       </tr>
                     ))}
