@@ -303,7 +303,7 @@ export default function App() {
                           {item.nama_produk}
                         </td>
                         <td style={{ ...S.td, textAlign: "right", color: "#ff6b35", fontWeight: "500", whiteSpace: "nowrap" }}>
-                          Rp {item.harga}
+                          {Number(String(item.harga).replace(/\./g, "")).toLocaleString("id-ID", { style: "currency", currency: "IDR", minimumFractionDigits: 0 })}
                         </td>
                         <td style={{ ...S.td, textAlign: "center", color: "#555" }}>
                           {item.qty}
