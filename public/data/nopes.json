@@ -1,4 +1,369 @@
 [
+
+    {
+        "no_pes": "584322076713649423",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 1587061,
+        "qty": 15,
+        "tanggal_co": "2026-02-06 15:38:21"
+    },
+    {
+        "no_pes": "584322076713649423",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 1587066,
+        "qty": 15,
+        "tanggal_co": "2026-02-06 15:38:21"
+    },
+    {
+        "no_pes": "584320584240301344",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 105262,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 13:52:22"
+    },
+    {
+        "no_pes": "584317662053107296",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 159903,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 10:34:46"
+    },
+    {
+        "no_pes": "584317420359223016",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 1653118,
+        "qty": 15,
+        "tanggal_co": "2026-02-06 10:24:58"
+    },
+    {
+        "no_pes": "584317420359223016",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 1653117,
+        "qty": 15,
+        "tanggal_co": "2026-02-06 10:24:58"
+    },
+    {
+        "no_pes": "584313080009492330",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 167564,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 00:48:06"
+    },
+    {
+        "no_pes": "584312887781328851",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 147016,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 00:21:51"
+    },
+    {
+        "no_pes": "584312906022749854",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 169417,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 00:21:26"
+    },
+    {
+        "no_pes": "584312845556877164",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172548,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 00:14:53"
+    },
+    {
+        "no_pes": "584312866013546080",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 170044,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 00:13:17"
+    },
+    {
+        "no_pes": "584312804074423584",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 166529,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 00:13:02"
+    },
+    {
+        "no_pes": "584312780418155997",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 166054,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 00:10:43"
+    },
+    {
+        "no_pes": "584312798982604043",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 169565,
+        "qty": 1,
+        "tanggal_co": "2026-02-06 00:10:33"
+    },
+    {
+        "no_pes": "584306652405663511",
+        "nama_produk": "【TOP CREATOR】SCARLETT Triple Pack Eau De Parfum & Extrait De Parfum 30ml Wangi Tahan Lama - Unisex - Wangi Mewah",
+        "harga": 168725,
+        "qty": 1,
+        "tanggal_co": "2026-01-06 17:36:15"
+    },
+    {
+        "no_pes": "584304676865475837",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2170410,
+        "qty": 20,
+        "tanggal_co": "2026-01-06 15:21:52"
+    },
+    {
+        "no_pes": "584304676865475837",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2170408,
+        "qty": 20,
+        "tanggal_co": "2026-01-06 15:21:52"
+    },
+    {
+        "no_pes": "584304495341634813",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2138520,
+        "qty": 20,
+        "tanggal_co": "2026-01-06 15:08:42"
+    },
+    {
+        "no_pes": "584304495341634813",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2138527,
+        "qty": 20,
+        "tanggal_co": "2026-01-06 15:08:42"
+    },
+    {
+        "no_pes": "584304364369904893",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2086405,
+        "qty": 20,
+        "tanggal_co": "2026-01-06 15:00:04"
+    },
+    {
+        "no_pes": "584304364369904893",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2086410,
+        "qty": 20,
+        "tanggal_co": "2026-01-06 15:00:04"
+    },
+    {
+        "no_pes": "584301334181283120",
+        "nama_produk": "TISU TITI 260 HELAI PAKET 6 PCS BISA COD",
+        "harga": 23310,
+        "qty": 1,
+        "tanggal_co": "2026-01-06 11:49:14"
+    },
+    {
+        "no_pes": "584291898206422433",
+        "nama_produk": "[BEST] WHITE INC Alpha Glowhite PDRN Glucowhite TranexHya Body Lotion Whitening & Moisturizing | Body Lotion Menghidrasi Kulit",
+        "harga": 51900,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 20:24:19"
+    },
+    {
+        "no_pes": "584291830550922657",
+        "nama_produk": "[BUNDLING 2] WHITE INC Alpha Glowhite / PDRN Glowhite / GlucoWhite / TranexHya Body Lotion + AHA Body Serum / Alpha Glowhite Body Serum Paket Perawatan Kulit Lengkap Mencerahkan dan Efektif untuk Semua Jenis Kulit",
+        "harga": 107000,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 20:23:15"
+    },
+    {
+        "no_pes": "584291830373844385",
+        "nama_produk": "[BUNDLING 4] WHITE INC Alpha Glowhite PDRN GlucoWhite TranexHya Body Lotion + AHA Body Serum + Alpha Glowhite Body Mask + Alpha Glowhite Body Wash",
+        "harga": 201000,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 20:22:20"
+    },
+    {
+        "no_pes": "584290012977858538",
+        "nama_produk": "CUTTING STICKER LOGO GC STIKER MATIC VIRAL Motorcycle",
+        "harga": 2985,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 18:19:22"
+    },
+    {
+        "no_pes": "584288082228839519",
+        "nama_produk": "SCARLETT Fragrance Brightening Body Lotion Bright Mood Booster 300ml +4 Essential Oils 3X Brightening Power | Solusi Untuk Kulit Kering | Menenangkan, Mencerahkan Kulit, Wangi Tahan Seharian",
+        "harga": 55399,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 16:07:09"
+    },
+    {
+        "no_pes": "584283109447599192",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 10:23:05"
+    },
+    {
+        "no_pes": "584282497837794811",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 09:40:08"
+    },
+    {
+        "no_pes": "584281699044853233",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 08:36:09"
+    },
+    {
+        "no_pes": "584280673000523538",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 1021115,
+        "qty": 10,
+        "tanggal_co": "31/05/2026 06:51:48"
+    },
+    {
+        "no_pes": "584280673000523538",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2042230,
+        "qty": 20,
+        "tanggal_co": "31/05/2026 06:51:48"
+    },
+    {
+        "no_pes": "584280650348856797",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 06:49:58"
+    },
+    {
+        "no_pes": "584280465222502240",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 06:24:51"
+    },
+    {
+        "no_pes": "584280361412167466",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 06:10:19"
+    },
+    {
+        "no_pes": "584280356876878927",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 06:08:16"
+    },
+    {
+        "no_pes": "584280193767671807",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 05:43:15"
+    },
+    {
+        "no_pes": "584280154541294859",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 05:36:35"
+    },
+    {
+        "no_pes": "584280161132381289",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 05:36:28"
+    },
+    {
+        "no_pes": "584280110994130173",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2199513,
+        "qty": 20,
+        "tanggal_co": "31/05/2026 05:24:38"
+    },
+    {
+        "no_pes": "584280110994130173",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2199510,
+        "qty": 20,
+        "tanggal_co": "31/05/2026 05:24:38"
+    },
+    {
+        "no_pes": "584280054391604243",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 05:16:08"
+    },
+    {
+        "no_pes": "584280056171562963",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 05:13:34"
+    },
+    {
+        "no_pes": "584280031861179792",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 150356,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 05:09:10"
+    },
+    {
+        "no_pes": "584280024702355171",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 05:07:38"
+    },
+    {
+        "no_pes": "584280028764406912",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 05:06:31"
+    },
+    {
+        "no_pes": "584279913638626722",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 04:36:10"
+    },
+    {
+        "no_pes": "584279874399340071",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 04:30:33"
+    },
+    {
+        "no_pes": "584279450070058032",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 159459,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 02:16:08"
+    },
+    {
+        "no_pes": "584278635648484656",
+        "nama_produk": "[New] Glad2Glow Glowy Tint Lip Balm Pelembab Bibir Tinted 3-in-1 Mencerahkan Melembapkan Membuat Bibir Halus dengan Vitamin C Kakadu Plum Squalane Peptide Bibir Cerah Natural Segar Tidak Lengket Cocok Semua Jenis Kulit Skincare Korea",
+        "harga": 172092,
+        "qty": 1,
+        "tanggal_co": "31/05/2026 00:05:13"
+    },
+    {
+        "no_pes": "584278605840615186",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2108928,
+        "qty": 20,
+        "tanggal_co": "31/05/2026 00:03:13"
+    },
+    {
+        "no_pes": "584278605840615186",
+        "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
+        "harga": 2108914,
+        "qty": 20,
+        "tanggal_co": "31/05/2026 00:03:13"
+    },
     {
         "no_pes": "584278249754429202",
         "nama_produk": "[Twin Pack] Varian 1PCS & 2PCS GLOW FX BEAUTY Glow Bomb Serum - Serum Glowing & Bekas Jerawat 19% Brightening Power pencerah",
